@@ -1,0 +1,76 @@
+Software Engineering Project
+	QUIZ
+
+FRAGEN:
+	BINFO
+
+	- In welcher Fakultät gehört das BINFO Programm?
+		1) Faculté de Droit, d'Economie et de Finance
+		2) Faculté des Sciences, de la Technologie et de la Communication*
+		3) Faculté des Lettres, des Sciences Humaines, des Arts et des Sciences de l'Education
+	- Für was stehen die Buchstaben bei BINFO vor?
+		1) Bachelor Information
+		2) Bachelor en Informatique*
+		3) Bachelor in Applied Information Technology
+	- Welches Programm stellt BINFO dar?
+		1) Bachelor in Applied Information Technology*
+		2) Bachelor in Computer Science
+		3) Bachelor en Informatique
+	- Wie viele Semester/ECTS beinhältet BINFO?
+		1) 3/90 ECTS
+		2) 4/120 ECTS
+		3) 6/180 ECTS*
+	- Wie viele ECTS benötigt man für eine Wiedereinschreibung?
+		1) 30*
+		2) 45
+		3) 0
+	- Wo haben die BINFO Studenten ihre Unterricht?
+		1) nur in Belval*
+		2) in Belval und Kirschberg
+		3) nur in Kirschberg
+	- In welches Semester muss man ein Semester im Ausland verbringen?
+		1) 2tes
+		2) 3tes oder 4tes*
+		3) 5tes oder 6tes
+	- Welches Master kann man nicht nach dem Bachelor einschreiben?
+		1) Master in Information and Computer Sciences*
+		2) Master en Développement durable
+		3) Master en Management de la Sécurité des Systemes d'Information*
+	- Was ist die Hauptsprache in dieses Bachelorstudiengang?
+		1) Französich
+		2) Englisch*
+		3) Deutsch
+
+	Professoren
+
+	- Wer ist für das BINFO Programm zuständig?
+		Prof. Dr. Franck Leprévost
+		Prof. Dr. Steffen Rothkugel
+		Prof. Dr. Volker Müller*
+	- Wer ist der/die Binfos Sekräter/in?
+		1) Sandra Rosin*
+		2) Marielle Mabille
+		3)Nicolas Guelfi
+
+	Universität
+
+	- Wann wurde das Universität eröffnet?
+		1) vor 2000
+		2) Zwischen 2000 und 2010*
+		3) nach 2010
+	- Wie viele Studenten?
+		1) ca. 5000*
+		2) ca. 10000
+		3) ca. 20000
+	- wie viele Studiengänge hat das Universität (Bachelor und Master)?
+		1) <20
+		2) >30*
+		3) Zwischen 20 und 30
+	- Für was steht LLC vor?
+		1) Luxembourg Library Center
+		2) Library Learning Center
+		3) Luxembourg Learning Center*
+	- Wie viele Länder/Nationalitäten sind in der Univeristät repräsentiert?
+		1) ca. 25
+		2) ca. 50
+		3) ca. 100*

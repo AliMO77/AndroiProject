@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/child_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="-11dp"
+        tools:ignore="InvalidId" />
+
+    <ImageButton
+        android:id="@+id/map_to_menu_button"
+        android:layout_width="54dp"
+        android:layout_height="54dp"
+        android:layout_marginVertical="5dp"
+        android:layout_marginHorizontal="5dp"
+        android:elevation="3dp"
+        android:background="@drawable/button_circle_white"
+        android:src="@drawable/ic_menu"/>
+
+    <Button
+        android:id="@+id/map_buildings_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/map_to_menu_button"
+        android:layout_marginVertical="5dp"
+        android:layout_marginHorizontal="10dp"
+        android:layout_alignTop="@id/map_to_menu_button"
+        android:text="Maison du Savoir"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+        android:elevation="3dp"
+        android:background="@drawable/dialog_bg"
+        android:drawableLeft="@drawable/ic_more_vert_black"
+        android:padding="7dp"/>
+
+    <ImageButton
+        android:id="@+id/map_location_button"
+        android:layout_width="54dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:elevation="3dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/button_circle_white"
+        android:src="@drawable/ic_my_location"/>
+
+</RelativeLayout>

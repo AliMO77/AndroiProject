@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questions [
+    <!ELEMENT questions (Question+)>
+    <!ELEMENT Question (question, option1, option2, option3, answerNr, solution)>
+    <!ELEMENT question (#PCDATA)>
+    <!ATTLIST question name ID #REQUIRED>
+
+    <!ELEMENT option1 (#PCDATA)>
+    <!ATTLIST option1 translatable CDATA #IMPLIED>
+    <!ATTLIST option1 name ID #REQUIRED>
+
+    <!ELEMENT option2 (#PCDATA)>
+    <!ATTLIST option2 name ID #REQUIRED>
+    <!ATTLIST option2 translatable CDATA #IMPLIED>
+
+    <!ELEMENT option3 (#PCDATA)>
+    <!ATTLIST option3 name ID #REQUIRED>
+    <!ATTLIST option3 translatable CDATA #IMPLIED>
+
+    <!ELEMENT answerNr (#PCDATA)>
+
+    <!ELEMENT solution (#PCDATA)>
+    <!ATTLIST solution translatable CDATA #IMPLIED>
+    ]>
+
+<questions>
+    <Question>
+        <question name="quiz_question_1">In welcher Fakultät gehört das BINFO Programm?</question>
+        <option1 name="quiz_1_1">Fakultät für Recht, Wirtschaftswissenschaften und Finanzwirtschaft</option1>
+        <option2 name="quiz_1_2">Fakultät für Naturwissenschaften, Techonologie und Medizin</option2>
+        <option3 name="quiz_1_3">Fakultät für Geisteswissenschaften, Erziehungswissenschaften und Sozialwissenschaften</option3>
+        <answerNr>2</answerNr>
+        <solution>Der BINFO-Lehrplan ist Teil der Fakultät für Naturwissenschaften, Technik und Medizin.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_2">Für was stehen die Buchstaben bei BINFO vor?</question>
+
+        <option1 name="quiz_2_1">Bachelier of Information</option1>
+        <option2 name="quiz_2_2">Bachelor in Informatik</option2>
+        <option3 name="quiz_2_3">Bachelier in Applied Information Technology</option3>
+        <answerNr>2</answerNr>
+        <solution>Bachelor in INFOrmatik, die Buchstaben in Großbuchstaben bilden BINFO.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_3">Welches Programm stellt BINFO dar?</question>
+
+        <option1 name="quiz_3_1">Bachelor in Applied Information Technology</option1>
+        <option2 name="quiz_3_2">Bachelor in Computer Science</option2>
+        <option3 name="quiz_3_3">Bachelor in Informatik</option3>
+        <answerNr>1</answerNr>
+        <solution>Es gibt eine Falle. Das Programm änderte seinen Namen im Laufe der Jahre 2019-2020, aber die Initialen blieben unverändert.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_4">Wie viele Semester beinhältet BINFO?</question>
+
+        <option1 name="quiz_4_1" translatable="false">3</option1>
+        <option2 name="quiz_4_2" translatable="false">4</option2>
+        <option3 name="quiz_4_3" translatable="false">6</option3>
+        <answerNr>3</answerNr>
+        <solution>60 ECTS für 3 Jahre und bilden am Ende des Abiturs insgesamt 180 ETCS.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_5">Wie viele ECTS benötigt man für eine Wiedereinschreibung?</question>
+
+        <option1 name="quiz_5_1" translatable="false">30</option1>
+        <option2 name="quiz_5_2" translatable="false">45</option2>
+        <option3 name="quiz_5_3" translatable="false">0</option3>
+        <answerNr>1</answerNr>
+        <solution>Sie müssen im ersten Jahr mindestens 30 ECTS validieren. Natürlich können Sie die nicht validierten Prüfungen später wiederholen.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_6">Wo haben die BINFO Studenten ihre Unterricht?</question>
+
+        <option1 name="quiz_6_1">Nur in Belval</option1>
+        <option2 name="quiz_6_2">In Belval und Kirschberg</option2>
+        <option3 name="quiz_6_3">Nur in Kirschberg</option3>
+        <answerNr>1</answerNr>
+        <solution>Eine Zeit lang wurde der Unterricht in Belval und Kirchberg abgehalten, aber jetzt sind alle nach Belval verlegt worden.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_7">In welches Semester muss man ein Semester im Ausland verbringen?</question>
+
+        <option1 name="quiz_7_1">1ste oder 2tes</option1>
+        <option2 name="quiz_7_2">3tes oder 4tes</option2>
+        <option3 name="quiz_7_3">5tes oder 6tes</option3>
+        <answerNr>2</answerNr>
+        <solution>Im ersten Studienjahr ist es noch etwas früh. Im letzten Jahr gibt es bereits das Abschlusspraktikum. Daher ist die beste Option im zweiten Jahr.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_8">Welche Fähigkeiten sind erforderlich, um sich zu registrieren?</question>
+
+        <option1 name="quiz_8_1">Einige Computerkenntnisse</option1>
+        <option2 name="quiz_8_2">Mathematische spezifische Fähigkeiten</option2>
+        <option3 name="quiz_8_3">Irgendein</option3>
+        <answerNr>3</answerNr>
+        <solution>Sie brauchen keine Fähigkeiten. Das einzige erforderliche Dokument ist ein Zeugnis der allgemeinen Hochschulreife.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_9">Welches Master kann man nicht nach dem Bachelor einschreiben?</question>
+
+        <option1 name="quiz_9_1">Master en Information et Sciences Informatique</option1>
+        <option2 name="quiz_9_2">Master en Développement durable</option2>
+        <option3 name="quiz_9_3">Master en Management de la Sécurité des Systèmes d'Information</option3>
+        <answerNr>2</answerNr>
+        <solution>Der Master in Entwicklung ist Teil des Ingenieurstudiums.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_10">Was ist die Hauptsprache in dieses Bachelorstudiengang?</question>
+
+        <option1 name="quiz_10_1">Französich</option1>
+        <option2 name="quiz_10_2">Englisch</option2>
+        <option3 name="quiz_10_3">Deutsch</option3>
+        <answerNr>2</answerNr>
+        <solution>Englisch ist die beste Option, weil es ein sehr wichtiges Werkzeug in der IT und in der Gesellschaft im Allgemeinen ist. Es gibt einige wenige Kurse in Französisch.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_11">Wer ist für das BINFO Programm zuständig?</question>
+
+        <option1 name="quiz_11_1" translatable="false">Prof. Dr.Franck Leprévost</option1>
+        <option2 name="quiz_11_2" translatable="false">Prof. Dr.Steffen Rothkugel</option2>
+        <option3 name="quiz_11_3" translatable="false">Prof. Dr.Volker Müller</option3>
+        <answerNr>3</answerNr>
+        <solution>Dr. Prof. Müller leitet das Programm und unterrichtet auch einige Kurse, die über die verschiedenen Semester verteilt sind.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_12">Wer ist der/die Binfos Sekräter/in?</question>
+
+        <option1 name="quiz_12_1" translatable="false">Sandra Rosin</option1>
+        <option2 name="quiz_12_2" translatable="false">Marielle Mabille</option2>
+        <option3 name="quiz_12_3" translatable="false">Nicolas Guelfi</option3>
+        <answerNr>1</answerNr>
+        <solution>Das Büro von Frau Rosin befindet sich im 6. Stock des Maison du Savoir.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_13">Wann wurde das Universität eröffnet?</question>
+
+        <option1 name="quiz_13_1">vor 2000</option1>
+        <option2 name="quiz_13_2">Zwischen 2000 und 2010</option2>
+        <option3 name="quiz_13_3">nach 2010</option3>
+        <answerNr>2</answerNr>
+        <solution>Die Universität wurde am 12. August 2003 gegründet. Sie ist die einzige öffentliche Universität in Luxemburg.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_14">Wie viele Studenten?</question>
+
+        <option1 name="quiz_14_1" translatable="false">≈ 5000</option1>
+        <option2 name="quiz_14_2" translatable="false">≈ 10000</option2>
+        <option3 name="quiz_14_3" translatable="false">≈ 20000</option3>
+        <answerNr>1</answerNr>
+        <solution>Im Jahr 2017 zählte die Universität 6.400 Studenten, und die Zahl wächst jedes Jahr weiter.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_15">Wie viele Studiengänge hat das Universität (Bachelor und Master)?</question>
+
+        <option1 name="quiz_15_1">Weniger als 20</option1>
+        <option2 name="quiz_15_2">Mehr als 30</option2>
+        <option3 name="quiz_15_3">Zwischen 20 und 30</option3>
+        <answerNr>2</answerNr>
+        <solution>11 Bachelor- und 23 Masterstudiengänge für insgesamt 34 Studiengänge.11 Bachelor- und 23 Masterstudiengänge für insgesamt 34 Studiengänge.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_16">Wie viele Fakultäten gibt es an der Unilu?</question>
+
+        <option1 name="quiz_16_1" translatable="false">3</option1>
+        <option2 name="quiz_16_2" translatable="false">5</option2>
+        <option3 name="quiz_16_3" translatable="false">10</option3>
+        <answerNr>1</answerNr>
+        <solution>Fakultäten für [Recht, Wirtschaft und Finanzen] [Wissenschaft, Technik und Medizin] [Geistes-, Sozial- und Erziehungswissenschaften].</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_17">Für was steht LLC vor?</question>
+
+        <option1 name="quiz_17_1" translatable="false">Luxembourg Library Center</option1>
+        <option2 name="quiz_17_2" translatable="false">Library Learning Center</option2>
+        <option3 name="quiz_17_3" translatable="false">Luxembourg Learning Center</option3>
+        <answerNr>3</answerNr>
+        <solution>Die 2018 eingeweihte LLC bietet alle Arten von Dienstleistungen sowohl für Universitätsstudenten als auch für die übrige Bevölkerung an, da es sich um ein öffentliches Gebäude handelt.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_18">Wie viele Länder/Nationalitäten sind in der Univeristät repräsentiert?</question>
+
+        <option1 name="quiz_18_1" translatable="false">≈ 25</option1>
+        <option2 name="quiz_18_2" translatable="false">≈ 50</option2>
+        <option3 name="quiz_18_3" translatable="false">≈ 100</option3>
+        <answerNr>3</answerNr>
+        <solution>Die große Besonderheit von Unilu ist die Vielfalt der Studenten. Belgien, Frankreich und Deutschland sind gut vertreten, neben vielen anderen!</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_19">Wie viele ECTS beinhältet BINFO?</question>
+
+        <option1 name="quiz_19_1" translatable="false">90 ECTS</option1>
+        <option2 name="quiz_19_2" translatable="false">120 ECTS</option2>
+        <option3 name="quiz_19_3" translatable="false">180 ECTS</option3>
+        <answerNr>3</answerNr>
+        <solution>Mit insgesamt 180 Credits schließen Sie die Universität ab, die Ihnen den Zugang zu den Masters ermöglicht, entweder an der Unilu oder an anderen Universitäten.</solution>
+    </Question>
+</questions>

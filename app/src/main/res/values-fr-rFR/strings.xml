@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_map">Carte</string>
+    <string name="menu_home">Accueil</string>
+    <string name="menu_gallery">Gallerie</string>
+    <string name="menu_quiz">Quiz</string>
+    <string name="menu_slideshow">Diaporama</string>
+    <string name="menu_histo">Histoire</string>
+
+    <string name="choose_building">Choisir un bâtiment</string>
+
+    <string name="quiz_name">BINFO Quiz</string>
+    <string name="quiz_start_button">Commencer</string>
+    <string name="highscore">Record: 0</string>
+    <string name="score">Points: 0</string>
+    <string name="countdown">00:30</string>
+    <string name="confirm_button">Confirmer</string>
+
+    <string name="quiz_question_1">De quelle faculté fait partie le programme de BINFO?</string>
+    <string name="quiz_1_1">Faculté de Droit, d\'Economie et de Finance</string>
+    <string name="quiz_1_2">Faculté des Sciences, de la Technologie et de Medecine*</string>
+    <string name="quiz_1_3">Faculté des Lettres, des Sciences Humaines, des Sciences de l\'Éducation et des Sciences Sociales</string>
+    <string name="quiz_question_2">Que signifient les lettres de \"BINFO\"?</string>
+    <string name="quiz_2_1">Bachelier de l\'information</string>
+    <string name="quiz_2_2">Bachelier en Informatique*</string>
+    <string name="quiz_2_3">Bachelier en Sciences de la Technologie Appliquées</string>
+    <string name="quiz_question_3">"Quel programme est vraiment représenté par le programme BINFO? "</string>
+    <string name="quiz_3_1">Bachelier en Sciences de la Technologie Appliquées*</string>
+    <string name="quiz_3_2">Bachelier en Sciences Informatique</string>
+    <string name="quiz_3_3">Bachelier en Informatique</string>
+    <string name="quiz_question_4">Combien de semestres sont effectués durant le programme BINFO?</string>
+    <string name="quiz_question_5">Combien de ECTS sont nécessaires pour une réinscription?</string>
+    <string name="quiz_question_6">Où se font les cours des étudient du BINFO?</string>
+    <string name="quiz_6_1">Seulement à Belval*</string>
+    <string name="quiz_6_3">Seulement à Kirchberg</string>
+    <string name="quiz_6_2">À Belval et à Kirchberg</string>
+    <string name="quiz_question_7">Durant quels semestres peuvent se faire les échanges/mobilité?</string>
+    <string name="quiz_7_1">1er ou 2e</string>
+    <string name="quiz_7_2">3e ou 4e*</string>
+    <string name="quiz_7_3">5e ou 6e</string>
+    <string name="quiz_question_8">Quelles compétences sont nécéssaires pour s\'inscrire?</string>
+    <string name="quiz_8_1">Quelques compétences en informatique</string>
+    <string name="quiz_8_2">Compétences spécifiques en Mathématiques</string>
+    <string name="quiz_8_3">Aucune* (à part un diplôme secondaire)</string>
+    <string name="quiz_question_9">Quel master ne peut pas être suivi après le BINFO à l\'Unilu?</string>
+    <string name="quiz_9_1">Master en Information et Sciences Informatique</string>
+    <string name="quiz_9_2">Master en Développement durable*</string>
+    <string name="quiz_9_3">Master en Management de la Sécurité des Systèmes d\'Information</string>
+    <string name="quiz_question_10">Quelle est la langue principale dans les cours du BINFO?</string>
+    <string name="quiz_10_1">Français</string>
+    <string name="quiz_10_2">Anglais*</string>
+    <string name="quiz_10_3">Allemand</string>
+    <string name="quiz_question_11">Qui dirige le BINFO?</string>
+    <string name="quiz_question_12">Qui est le/la secrétaire du BINFO?</string>
+    <string name="quiz_question_13">Quand a été contruit l\'Université du Luxembourg?</string>
+    <string name="quiz_13_1">Avant 2000</string>
+    <string name="quiz_13_2">Entre 2000 et 2010*</string>
+    <string name="quiz_13_3">Après 2010</string>
+    <string name="quiz_question_14">Combien y\'a-t-il d\'étudiants à l\'Université du Luxembourg? (en 2017: 6400)</string>
+    <string name="quiz_question_15">Combien de Bacheliers et Masters sont proposés à l\'Université du Luxembourg?</string>
+    <string name="quiz_15_1">Moins que 20</string>
+    <string name="quiz_15_3">Entre 20 et 30</string>
+    <string name="quiz_15_2">Plus de 30* (11 Bacheliers et 23 Masters = 34)</string>
+    <string name="quiz_question_16">Combien y\'a-t-il de facultés à l\'Université du Luxembourg?</string>
+    <string name="quiz_question_17">Que signifient les lettres dans \"LLC\"?</string>
+    <string name="quiz_question_18">Combien y\'a-t-il de pays/nationalités représenté à l\'Université du Luxemboug?</string>
+    <string name="quiz_question_19">Combien d\'ECTS contient le BINFO?</string>
+
+    <string name="gallery_desc_1">Après avoir quitté la gare</string>
+    <string name="gallery_desc_2">Intérieur du Learning Center</string>
+    <string name="gallery_desc_3">LLC vol. 2</string>
+    <string name="gallery_desc_4">Entrée de la bibliothèque</string>
+    <string name="gallery_desc_5">Maison du Nombre</string>
+    <string name="gallery_desc_6">Façade de la Food House</string>
+    <string name="gallery_desc_7">Maison du Savoir</string>
+    <string name="gallery_desc_8">Entrée à la MSA</string>
+    <string name="gallery_desc_9">Maison des Arts et des Etudiants</string>
+    <string name="gallery_desc_10">Maison des Sciences Humaines</string>
+    <string name="gallery_desc_11">Entrée du Food Lab</string>
+
+    <string name="prev_btn">Précédente</string>
+    <string name="next_btn">Prochain</string>
+
+    <string-array name="details_story">
+        <item>La zone récréative située entre Belvaux et Esch est particulièrement appréciée et pleine de mystère. La forêt «Escher Bësch», également appelée bois du «Clair-Chêne», qui relie les deux cités, est le théâtre de nombreuses légendes.</item>
+        <item>Joseph Steichen, conseiller à la Cour supérieure de justice à Luxembourg, découvre à Belval une source d‘eau minérale d’une qualité exceptionnelle. Cette eau devenue célèbre pour ses vertus curatives est mise en bouteille et commercialisée à partir de 1893. Elle rencontre un franc succès non seulement au sein du Grand-Duché, mais également en Belgique et aux Pays-Bas; sa production atteint un nombre record de plus de 30 000 bouteilles dès la première année.</item>
+        <item>La forêt Escher Bësch est défrichée pour faire place à une usine sidérurgique alors à la pointe de la modernité. Le site comprenant hauts-fourneaux, aciérie et usine de laminage prend en charge toutes les phases de production de l’acier, du minerai de fer au produit fini. En 1913, plus de 3 000 travailleurs produisent au total 400 000 tonnes de fonte, 360 000 tonnes d’acier et 297 000 tonnes de produits laminés.</item>
+        <item>Le 30 avril, Jean Monnet, l’un des pères fondateurs de la Communauté Européenne du Charbon et de l’Acier, procède à la première coulée européenne symbolique à Belval.</item>
+        <item>L’aciérie est complètement transformée et modernisée jusqu’en 1979. Les six anciens hauts-fourneaux sont démolis et remplacés par trois nouveaux affichant des capacités de production supérieures.</item>
+        <item>Peu à peu, les trois hauts-fourneaux sont mis à l’arrêt. Leur successeur est un four électrique qui n’est plus alimenté en minerai de fer mais en ferraille.</item>
+        <item>L’un des trois derniers hauts-fourneaux est vendu au groupe sidérurgique chinois Kisco. Pendant cinq mois, 240 travailleurs chinois démontent plus de 10 000 tonnes d’acier, numérotent et emballent chaque pièce, pour ensuite reconstruire le colosse, durant 20 autres mois, sur son nouveau site de Kunming, dans la province du Yunnan.</item>
+        <item>L’ère de la production sidérurgique à Belval-Ouest touche à sa fin. Avec une ultime coulée symbolique, le dernier haut-fourneau encore en activité est mis à l’arrêt. La réflexion sur la reconversion future de l’ancien site de 120 hectares est engagée.</item>
+        <item>L’État luxembourgeois et le groupe sidérurgique Arbed (aujourd’hui ArcelorMittal) fondent ensemble la société de développement Agora. Sa mission est de planifier et de réaliser un quartier urbain moderne et dynamique sur l’ancien site industriel de Belval.</item>
+        <item>Conjointement avec le Ministère de l’Intérieur, Agora lance un concours d’urbanisme pour l\'élaboration d’un Masterplan qui servira de fondement au développement du nouveau quartier urbain. Le concours est remporté par le cabinet d’architecte Jo Coenen &amp; Co. de Maastricht (aujourd\'hui représenté par le bureau Mars), conjointement avec le cabinet d’architecte paysagiste Lubbers de \'s-Hertogenbosch (aujourd’hui représenté par le bureau Elyps).</item>
+        <item>Création du Fonds Belval. En tant qu’établissement public le Fonds est chargé de la réalisation de la « Cité des Sciences, de la Recherche et de l’Innovation », c’est-à-dire de la mise en œuvre du programme immobilier d’investissement public à Belval. \n\n En juin, le festival Steel Works réunit plus de 10 000 personnes à Belval. Sont présents, entre autres, Nina Hagen et le groupe Indochine.</item>
+        <item>Inauguration de la Rockhal, la plus grande salle de concert du Luxembourg. \n\n Avec le transfert du Centre de Recherche «Gabriel Lippmann», les premiers scientifiques arrivent à Belval.</item>
+        <item>Pendant près d’un siècle le site industriel n’était pas accessible au public. Aujourd’hui, plus de 1 000 visiteurs sont présents pour la réouverture officielle de Belval. Fin 2006, le nouveau symbole de Belval, le bâtiment rouge de la Dexia (aujourd\'hui BIL), est inauguré. 1 400 employés de la RBC Dexia Investor Services (aujourd\'hui RBC Investor Services) emménagent dans la première partie du bâtiment.</item>
+        <item>L’ancienne Halle des Soufflantes devient le théâtre de l’exposition «All we need», dans le cadre du programme de Capitale européenne de la Culture du Luxembourg et de la Grande Région.</item>
+        <item>Ouverture du centre Belvalplaza I qui propose des logements, des commerces, des cafés, des restaurants et un complexe cinématographique de 1 500 places. En dépit de longues files d\'attente, des milliers de visiteurs se pressent pour assister à l\'inauguration.</item>
+        <item>Les deux quartiers de Belval Nord et de la Terrasse des Hauts-Fourneaux sont entièrement commercialisés. La bibliothèque universitaire, appelée le Luxembourg Learning Center, ouvre ses portes et offre aux étudiants un environnement à la pointe de la technologie en plus d\'offrir des services de bibliothèque dites classiques. Le site totalise 17.000 occupants quotidiens dont plus de 3.000 habitants, 5.700 élèves, étudiants, assistants, chercheurs et plus de 8.500 salariés.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,85 @@
+	QUIZ
+
+QUESTIONS:
+	BINFO
+	
+	- What faculty is the BINFO program part of?
+		1) Faculté de Droit, d'Economie et de Finance
+		2) Faculté des Sciences, de la Technologie et de la Communication*
+		3) Faculté des Lettres, des Sciences Humaines, des Arts et des Sciences de l'Education
+	- What does BINFO's letters stand for?
+		1) Bachelor Information
+		2) Bachelor en Informatique*
+		3) Bachelor in Applied Information Technology
+	- What program does it represent?
+		1) Bachelor in Applied Information Technology*
+		2) Bachelor in Computer Sciences
+		3) Bachelor en Informatique
+	- How many semesters/ECTS does it contain?
+		1) 3/90 ECTS
+		2) 4/120 ECTS
+		3) 6/180 ECTS*
+	- How many ECTS is needed to a re-enrollment?
+		1) 30*
+		2) 45
+		3) 0 
+	- Where do BINFO students have class?
+		1) Only belval*
+		2) Belval and Kirchberg
+		3) Only Kirchberg
+	- During which semester do you need to go on mobility
+		1) 2nd
+		2) 3rd or 4th*
+		3) 5th or 6th
+	- What skills do you need before even enrolling yourself?
+		1) Some programming skills
+		2) Specific math knowledge
+		3) None* (But you definitely need a high-school graduation)
+	- What master can't you pursue after this bachelor at unilu?
+		1) Master in Information and Computer Sciences
+		2) Master en Développement durable*
+		3) Master en Management de la Sécurité des Systèmes d'Information
+	- What is the main language used in class?
+		1) French
+		2) English*
+		3) German
+
+	TEACHERS
+	
+	- Who is in charge of BINFO program?
+		1) Prof. Dr.Franck Leprévost
+		2) Prof. Dr.Steffen Rothkugel
+		3) Prof. Dr.Volker Müller*
+	- Who's BINFO's secretary?
+		1) Sandra Rosin*
+		2) Marielle Mabille
+		3) Nicolas Guelfi
+
+	UNIVERSITY
+
+	- When was the university founded?
+		1) Before 2000
+		2) Between 2000 and 2010*
+		3) After 2010
+	- How many students are there? (2017's numbers: 6400)
+		1) Around 5000*
+		2) Around 10000
+		3) Around 20000
+	- How many programs does the university propose(Bachelors and Masters)?
+		1) <20
+		2) >30* (11 Bachelors and 23 Masters = 34)
+		3) Between 20 and 30
+	- How many faculties are there in Unilu?
+		1) 3*
+		2) 5 
+		3) 10
+	- What does LLC stand for?
+		1) Luxembourg Library Center
+		2) Library Learning Center
+		3) Luxembourg Learning Center*
+
+	- How many countries/nationalities are represented in Unilu?
+		- Around 25
+		- Around 50
+		- Around 100*
+

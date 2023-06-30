@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questions [
+    <!ELEMENT questions (Question+)>
+    <!ELEMENT Question (question, option1, option2, option3, answerNr, solution)>
+    <!ELEMENT question (#PCDATA)>
+    <!ATTLIST question name ID #REQUIRED>
+
+    <!ELEMENT option1 (#PCDATA)>
+    <!ATTLIST option1 translatable CDATA #IMPLIED>
+    <!ATTLIST option1 name ID #REQUIRED>
+
+    <!ELEMENT option2 (#PCDATA)>
+    <!ATTLIST option2 name ID #REQUIRED>
+    <!ATTLIST option2 translatable CDATA #IMPLIED>
+
+    <!ELEMENT option3 (#PCDATA)>
+    <!ATTLIST option3 name ID #REQUIRED>
+    <!ATTLIST option3 translatable CDATA #IMPLIED>
+
+    <!ELEMENT answerNr (#PCDATA)>
+
+    <!ELEMENT solution (#PCDATA)>
+    <!ATTLIST solution translatable CDATA #IMPLIED>
+    ]>
+
+<questions>
+    <Question>
+        <question name="quiz_question_1">De quelle faculté fait partie le programme de BINFO?</question>
+        <option1 name="quiz_1_1">Faculté de Droit, d'Economie et de Finance</option1>
+        <option2 name="quiz_1_2">Faculté des Sciences, de la Technologie et de Médecine</option2>
+        <option3 name="quiz_1_3">Faculté des Lettres, des Sciences Humaines, des Sciences de l'Éducation et des Sciences Sociales</option3>
+        <answerNr>2</answerNr>
+        <solution>Le programme d'étude BINFO fait partie de la Faculté des Sciences, de la Technologie et de Médecine.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_2">Que signifient les lettres de "BINFO"?</question>
+
+        <option1 name="quiz_2_1">Bachelier de l'information</option1>
+        <option2 name="quiz_2_2">Bachelor en Informatique</option2>
+        <option3 name="quiz_2_3">Bachelier en Sciences de la Technologie Appliquées</option3>
+        <answerNr>2</answerNr>
+        <solution>Bachelor en INFOrmatique, les lettres en majuscules forment BINFO.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_3">Quel programme est vraiment représenté par le programme BINFO?</question>
+
+        <option1 name="quiz_3_1">Bachelier en Sciences de la Technologie Appliquées</option1>
+        <option2 name="quiz_3_2">Bachelier en Sciences Informatique</option2>
+        <option3 name="quiz_3_3">Bachelier en Informatique</option3>
+        <answerNr>1</answerNr>
+        <solution>Il y'a un piège. Le programme a changé de nom pendant l'année 2019-2020 mais les initiales sont restées inchangées.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_4">Combien de semestres compte le programme d'étude BINFO?</question>
+
+        <option1 name="quiz_4_1" translatable="false">3</option1>
+        <option2 name="quiz_4_2" translatable="false">4</option2>
+        <option3 name="quiz_4_3" translatable="false">6</option3>
+        <answerNr>3</answerNr>
+        <solution>60 ECTS pendant 3 ans et forment un total de 180 ETCS à la fin du Bachelier.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_5">Combien d'ECTS sont nécessaires pour une réinscription?</question>
+
+        <option1 name="quiz_5_1" translatable="false">30</option1>
+        <option2 name="quiz_5_2" translatable="false">45</option2>
+        <option3 name="quiz_5_3" translatable="false">0</option3>
+        <answerNr>1</answerNr>
+        <solution>Vous aurez besoin de valider un minimum de 30 ECTS durant la première année. Biensûr, il vous sera possible de refaire les examens non-validés plus tard.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_6">Où se font les cours des étudiants du BINFO?</question>
+
+        <option1 name="quiz_6_1">Seulement à Belval</option1>
+        <option2 name="quiz_6_2">Belval and Kirchberg</option2>
+        <option3 name="quiz_6_3">Seulement à Kirchberg</option3>
+        <answerNr>1</answerNr>
+        <solution>Pendant un moment, les cours se faisaient à Belval et à Kirchberg mais tous ont été déplacé à Belval désormais.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_7">Pendant quels semestres peuvent se faire les échanges/mobilité?</question>
+
+        <option1 name="quiz_7_1">1er ou 2e</option1>
+        <option2 name="quiz_7_2">3e ou 4e</option2>
+        <option3 name="quiz_7_3">5e ou 6e</option3>
+        <answerNr>2</answerNr>
+        <solution>Durant la première année d'études, cela reste un peu tôt. En dernière année, il y'a déjà le stage de fin d'études. Du coup, la meilleure option est pendant la deuxième année.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_8">Quelles compétences sont requises pour s'inscrire?</question>
+
+        <option1 name="quiz_8_1">Quelques compétences en informatique</option1>
+        <option2 name="quiz_8_2">Compétences spécifiques en Mathématiques</option2>
+        <option3 name="quiz_8_3">Aucune</option3>
+        <answerNr>3</answerNr>
+        <solution>Vous n'avez besoin d'aucune compétence. Le seul document requis est un diplôme de fin d'études secondaire.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_9">Quel master ne peut pas être suivi après le BINFO à l'Unilu?</question>
+
+        <option1 name="quiz_9_1">Master en Information et Sciences Informatique</option1>
+        <option2 name="quiz_9_2">Master en Développement durable</option2>
+        <option3 name="quiz_9_3">Master en Management de la Sécurité des Systèmes d'Information</option3>
+        <answerNr>2</answerNr>
+        <solution>Master en Développement fait partie du cursus en ingénieurie.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_10">Quelle est la langue principale dans les cours du BINFO?</question>
+
+        <option1 name="quiz_10_1">Français</option1>
+        <option2 name="quiz_10_2">Anglais</option2>
+        <option3 name="quiz_10_3">Allemand</option3>
+        <answerNr>2</answerNr>
+        <solution>L'anglais est la meilleure option car c'est un outil très important dans l'informatique et dans la société en général. Il y a quand même quelques cours en français.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_11">Qui est en charge du programme d'étude BINFO?</question>
+
+        <option1 name="quiz_11_1" translatable="false">Prof. Dr.Franck Leprévost</option1>
+        <option2 name="quiz_11_2" translatable="false">Prof. Dr.Steffen Rothkugel</option2>
+        <option3 name="quiz_11_3" translatable="false">Prof. Dr.Volker Müller</option3>
+        <answerNr>3</answerNr>
+        <solution>Le Dr. Prof.Müller est à la tête du programme, et dispense aussi quelques cours répartis sur les différents semestres.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_12">Qui est le/la secrétaire du BINFO?</question>
+
+        <option1 name="quiz_12_1" translatable="false">Sandra Rosin</option1>
+        <option2 name="quiz_12_2" translatable="false">Marielle Mabille</option2>
+        <option3 name="quiz_12_3" translatable="false">Nicolas Guelfi</option3>
+        <answerNr>1</answerNr>
+        <solution>Le bureau de Mme Rosin se trouve au 6e étage de la Maison du Savoir.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_13">Quand a été contruit l'Université du Luxembourg?</question>
+
+        <option1 name="quiz_13_1">Avant 2000</option1>
+        <option2 name="quiz_13_2">Entre 2000 et 2010</option2>
+        <option3 name="quiz_13_3">Après 2010</option3>
+        <answerNr>2</answerNr>
+        <solution>L'université a été fondée le 12 Août 2003. C'est la seule université publique au Luxembourg.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_14">Combien y'a-t-il d'étudiants à l'Université du Luxembourg?</question>
+
+        <option1 name="quiz_14_1" translatable="false">≈ 5000</option1>
+        <option2 name="quiz_14_2" translatable="false">≈ 10000</option2>
+        <option3 name="quiz_14_3" translatable="false">≈ 20000</option3>
+        <answerNr>1</answerNr>
+        <solution>L'université avait 6400 étudiants en 2017 et le nombre ne cesse d'augmenter chaque année.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_15">Combien de programmes d'études sont proposés à l'Université du Luxembourg?</question>
+
+        <option1 name="quiz_15_1">Moins que 20</option1>
+        <option2 name="quiz_15_2">Plus que 30</option2>
+        <option3 name="quiz_15_3">Entre 20 et 30</option3>
+        <answerNr>2</answerNr>
+        <solution>11 Bacheliers and 23 Masters pour un total de 34 programmes d'études.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_16">Combien de facultés y'a-t-il à l'Unilu?</question>
+
+        <option1 name="quiz_16_1" translatable="false">3</option1>
+        <option2 name="quiz_16_2" translatable="false">5</option2>
+        <option3 name="quiz_16_3" translatable="false">10</option3>
+        <answerNr>1</answerNr>
+        <solution>Les facultés de [Droit, Economie et Finance] [Sciences, Technologie et Médecine] [Lettres, Sciences Humaines, Sciences de l'Éducation et Sciences Sociales].</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_17">Que signifie LLC?</question>
+
+        <option1 name="quiz_17_1" translatable="false">Luxembourg Library Center</option1>
+        <option2 name="quiz_17_2" translatable="false">Library Learning Center</option2>
+        <option3 name="quiz_17_3" translatable="false">Luxembourg Learning Center</option3>
+        <answerNr>3</answerNr>
+        <solution>Inauguré en 2018, le LLC offre tout genre de services tant aux étudiants de l'université qu'au reste de la population car c'est un bâtiment publique.</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_18">Combien y'a-t-il de pays/nationalités représenté à l'Université du Luxemboug?</question>
+
+        <option1 name="quiz_18_1" translatable="false">≈ 25</option1>
+        <option2 name="quiz_18_2" translatable="false">≈ 50</option2>
+        <option3 name="quiz_18_3" translatable="false">≈ 100</option3>
+        <answerNr>3</answerNr>
+        <solution>La grande particularité de l'Unilu est la diversité de ses étudiants. La Belgique, la France et l'Allemagne sont très représentés, en plus de beaucoup d'autres!</solution>
+    </Question>
+
+    <Question>
+        <question name="quiz_question_19">Combien d'ECTS contient le BINFO?</question>
+
+        <option1 name="quiz_19_1" translatable="false">90 ECTS</option1>
+        <option2 name="quiz_19_2" translatable="false">120 ECTS</option2>
+        <option3 name="quiz_19_3" translatable="false">180 ECTS</option3>
+        <answerNr>3</answerNr>
+        <solution>Un total de 180 crédits vous rend diplomé par l'Université qui vous donne accès aux Masters, que ce soit à l'Unilu, ou bien dans d'autres universités.</solution>
+    </Question>
+</questions>

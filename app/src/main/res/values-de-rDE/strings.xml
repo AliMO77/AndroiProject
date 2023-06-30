@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_map">Karte</string>
+    <string name="menu_quiz">Quiz</string>
+    <string name="menu_home">Startseite</string>
+    <string name="menu_gallery">Galerie</string>
+    <string name="menu_slideshow">Diashow</string>
+    <string name="menu_histo">Geschichte</string>
+
+    <string name="choose_building">Gebäude wählen</string>
+
+    <string name="quiz_name">BINFO Quiz</string>
+    <string name="quiz_start_button">Start</string>
+    <string name="highscore">Highscore: 0</string>
+    <string name="score">Ergebnis: 0</string>
+    <string name="countdown">00:30</string>
+    <string name="confirm_button">Bestätigen</string>
+
+    <string name="gallery_desc_1">Nach Verlassen des Bahnhofs</string>
+    <string name="gallery_desc_2">Im Inneren des Lernzentrums</string>
+    <string name="gallery_desc_3">LLC vol. 2</string>
+    <string name="gallery_desc_4">Eingang zur Bibliothek</string>
+    <string name="gallery_desc_5">Maison du Nombre</string>
+    <string name="gallery_desc_6">Vorderseite des Food House</string>
+    <string name="gallery_desc_7">Maison du Savoir</string>
+    <string name="gallery_desc_8">Eingang zum MSA</string>
+    <string name="gallery_desc_9">Maison des Arts et des Etudiants</string>
+    <string name="gallery_desc_10">Maison des Sciences Humaines</string>
+    <string name="gallery_desc_11">Eingang zum Food Lab</string>
+
+    <string name="prev_btn">Vorherigen</string>
+    <string name="next_btn">Nächster</string>
+
+    <string-array name="details_story">
+        <item>Das Naherholungsgebiet zwischen Belvaux und Esch ist nicht nur besonders beliebt, es ist auch besonders geheimnisvoll. Märchenhafte Sagen erzählt man sich über das Waldgebiet, das die beiden Siedlungen verbindet und wahlweise “Escher Bësch” oder Wald von “Claire Chêne” genannt wird.</item>
+        <item>Der Anwalt Joseph Steichen entdeckt in Belval eine Mineralquelle von außergewöhnlicher Qualität. Das für seine Heilwirkung bekannt gewordene Wasser wird ab 1893 professionell abgefüllt und vertrieben. Nicht nur im Großherzogtum, auch in Belgien und den Niederlanden erfreut es sich großer Beliebtheit – und beschert bereits im ersten Jahr Rekordzahlen von über 30.000 abgefüllten Flaschen.  </item>
+        <item>Der Escher Bësch wird abgeholzt, um Platz zu machen für eines der modernsten Stahlwerke der damaligen Zeit. Von der Erzaufbereitung bis zum fertigen Endprodukt – mit Hochöfen, Stahlwerk und Walzwerk ermöglicht die Anlage alle Phasen der Stahlproduktion. Über 3.000 Arbeiter produzieren 1913 insgesamt 400.000 Tonnen Gusseisen, 360.000 Tonnen Stahl und 297.000 Tonnen Walzprodukte.</item>
+        <item>Am 30. April nimmt Jean Monnet, einer der Gründerväter der Europäischen Gemeinschaft den symbolischen ersten europäischen Hochofenabstich für die Montanunion in Belval vor.</item>
+        <item>Das Stahlwerk wird bis 1979 komplett umgebaut und modernisiert. Die sechs alten Hochöfen werden abgerissen und durch drei neue mit noch höheren Produktionskapazitäten ersetzt.</item>
+        <item>Nach und nach werden die drei Hochöfen stillgelegt. Ihr Nachfolger ist ein Elektroofen, der nicht mehr mit Eisenerz, sondern mit Metallschrott bestückt wird.</item>
+        <item>Einer der drei letzten Hochöfen wird an den chinesischen Stahlkonzern Kisco verkauft. 240 chinesische Arbeiter bauen in fünf Monaten die mehr als 10.000 Tonnen Stahl ab, nummerieren und verpacken jedes Einzelteil, um den Koloss in weiteren 20 Monaten am neuen Standort Kunming in der Provinz Yunnan wieder aufzubauen. </item>
+        <item>Die Ära der Eisenproduktion in Belval-Ouest geht zu Ende. Mit einem symbolischen letzten Abstich wird der einzige noch funktionstüchtige Hochofen stillgelegt. Es beginnen Überlegungen, wie man das rund 120 Hektar große Areal künftig nutzen kann. </item>
+        <item>Der Luxemburger Staat und der Stahlkonzern Arbed (heute ArcelorMittal) gründen gemeinsam die Entwicklungsgesellschaft Agora. Sie soll auf dem stillgelegten Industrieareal Belval ein modernes und lebendiges Stadtviertel planen und bauen. </item>
+        <item>Gemeinsam mit dem Innenministerium lobt Agora einen städtebaulichen Wettbewerb zur Erstellung eines übergeordneten Masterplans als Grundlage für alle weiteren Entwicklungen des neuen Stadtviertels aus. Gewinner sind das Büro Jo Coenen &amp; Co. aus Maastricht (heute vertreten durch das Büro Mars) gemeinsam mit den Freiraumplanern Lubbers aus \'s-Hertogenbosch (heute vertreten durch das Büro Elyps). </item>
+        <item>Gründung des Fonds Belval. Als öffentliche Einrichtung erfüllt er die Aufgabe, die “Stadt der Wissenschaften, Forschung und Innovation”, das heißt, das staatliche Investitionsprogramm auf Belval umzusetzen. \n\n Im Juni feiern über 10.000 Menschen beim Steel Works Festival in Belval. Unter anderem treten Nina Hagen und die Band Indochine auf.</item>
+        <item>Eröffnung der Rockhal, Luxemburgs größter Konzerthalle. \n\n Mit dem Umzug des Forschungszentrums “Gabriel Lippmann” kommen die ersten Wissenschaftler nach Belval.</item>
+        <item>Fast 100 Jahre war das Industrieareal nicht für die Öffentlichkeit zugänglich – jetzt kommen rund 1.000 Besucher zur offiziellen Wiedereröffnung von Belval. Ende 2006 wird das neue Wahrzeichen von Belval – das rote Bankgebäude der Dexia (heute BIL) – eröffnet. 1.400 Mitarbeiter der RBC Dexia Investor Services (heute RBC Investor Services) ziehen in den ersten Abschnitt des Gebäudes.</item>
+        <item>Die alte Gebläsehalle wird zum Schauplatz der Ausstellung “All we need”, Teil des Programms zum europäischen Kulturhauptstadt-Jahr von Luxemburg und der Großregion.</item>
+        <item>Eröffnung von Belvalplaza I, dem Multifunktionscenter mit Wohnungen, Shoppingmall, Cafès, Restaurants und einem Großkino mit 1.500 Plätzen. Tausende Besucher lassen es sich nicht nehmen, am Eröffnungstag dabei zu sein – langem Schlangestehen zum Trotz. </item>
+        <item>Die beiden Stadtteile Belval Nord und Hochofenterrasse sind vollständig vermarktet. Die Universitätsbibliothek, das so genannte Luxembourg Learning Center, öffnet ihre Türen und bietet den Studierenden neben den so genannten traditionellen Bibliotheksdiensten ein modernes Umfeld. Der Standort hat insgesamt 17.000 tägliche Bewohner, darunter mehr als 3.000 Einwohner, 5.700 Schüler, Studenten, Assistenten, Forscher und mehr als 8.500 Mitarbeiter.</item>
+    </string-array>
+</resources>

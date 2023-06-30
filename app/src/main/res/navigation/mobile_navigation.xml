@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_map">
+
+    <fragment
+        android:id="@+id/nav_map"
+        android:name="lu.uni.sep.group5.UniLux.ui.map.ParentMapFragment"
+        android:label="@string/menu_map"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/nav_quiz"
+        android:name="lu.uni.sep.group5.UniLux.ui.quiz.QuizFragment"
+        android:label="@string/menu_quiz"
+        tools:layout="@layout/fragment_quiz" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="lu.uni.sep.group5.UniLux.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_snakey"
+        android:name="lu.uni.sep.group5.UniLux.ui.Snakey.GameFragment"
+        android:label="@string/Snakey"
+        tools:layout="@layout/fragment_game" />
+
+    <fragment
+        android:id="@+id/nav_wiki"
+        android:name="lu.uni.sep.group5.UniLux.ui.history.HistoFragment"
+        android:label="@string/menu_histo"
+        tools:layout="@layout/fragment_histo" />
+
+</navigation>

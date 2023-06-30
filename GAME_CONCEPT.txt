@@ -1,0 +1,38 @@
+﻿**GAME CONCEPT : **
+
+
+NAME : SNAKEY
+Logo : “in production”
+The aim of the game is in essence to create a vintage snake game, the kind that was the flagship game of every Nokia phone back in 2005. It's a simple score based game where the snake is free-roaming and finding itself growing in size every time it consumes an item which is essentially representing its food. The player gets to guide the snake towards the food in order to score and simultaneously keep it alive while it grows in size and loses agility.  
+
+
+**WELCOME PAGE :**
+
+
+In this page, the player gets a welcome screen where he is presented with different options such as :
+* NEW GAME
+* SETTINGS
+* HELP
+* ABOUT
+* EXIT
+FIRST DRAFT SCREENSHOT OF WELCOME PAGE :
+  
+
+
+
+**GAMEPLAY : **
+
+
+*Score: *
+> point gain :
+each consumption begets +10 points
+>  point loss
+each wall bump subtracts -10 points  
+> snake death = game loss
+As Snakey grows and becomes harder to handle, one has to prevent Snakey from contorting and biting itself as it carries deadly venom and will therefore die instantly.
+
+
+________________
+
+
+FIRST DRAFT SCREENSHOT OF GAMEPLAY :

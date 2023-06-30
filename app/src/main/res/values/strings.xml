@@ -1,0 +1,94 @@
+<resources>
+
+    <string name="app_name" translatable="false">UniLux</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+
+    <string name="menu_map">Map</string>
+    <string name="menu_quiz">Quiz</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_histo">History</string>
+
+    <string name="choose_building">Choose building</string>
+
+
+    <string name="quiz_name">BINFO Quiz</string>
+    <string name="quiz_start_button">Start quiz</string>
+    <string name="highscore">Highscore: 0</string>
+    <string name="score">Score: 0</string>
+    <string name="countdown">00:30</string>
+    <string name="confirm_button">Confirm</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Snakey">Snakey</string>
+    <string name="title_activity_gamplay">GamplayActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="gallery_desc_1">After leaving train station</string>
+    <string name="gallery_desc_2">Inside of Learning Center</string>
+    <string name="gallery_desc_3">LLC vol. 2</string>
+    <string name="gallery_desc_4">Entrance to library</string>
+    <string name="gallery_desc_5">Maison du Nombre</string>
+    <string name="gallery_desc_6">Front of Food House</string>
+    <string name="gallery_desc_7">Maison du Savoir</string>
+    <string name="gallery_desc_8">Entrance to MSA</string>
+    <string name="gallery_desc_9">Maison des Arts et des Etudiants</string>
+    <string name="gallery_desc_10">Maison des Sciences Humaines</string>
+    <string name="gallery_desc_11">Entrance to Food Lab</string>
+
+
+    <string name="prev_btn">Previous</string>
+    <string name="next_btn">Next</string>
+
+    <string-array name="title_story">
+        <item>1850</item>
+        <item>1868</item>
+        <item>1909</item>
+        <item>1953</item>
+        <item>1965</item>
+        <item>1993</item>
+        <item>1995</item>
+        <item>1997</item>
+        <item>2000</item>
+        <item>2001</item>
+        <item>2002</item>
+        <item>2005</item>
+        <item>2006</item>
+        <item>2007</item>
+        <item>2008</item>
+        <item>2018</item>
+    </string-array>
+
+    <string-array name="details_story">
+        <item>The local recreation area between Belvaux and Esch is not only popular; it is also extremely mysterious. Fairy tales are told of the forest that links the two residential areas and is called either “Escher Bësch” or the forest of “Claire Chêne”.</item>
+        <item>The lawyer Joseph Steichen discovers a mineral spring of exceptional quality in Belval. The water becomes famous for its healing properties, and is bottled and marketed commercially from 1893. It enjoys great popularity in Belgium and the Netherlands as well as the Grand-Duchy, and achieves record sales of over 30,000 bottles in the first year.</item>
+        <item>The Escher Bësch forest is cleared to make way for one of the most modern steelworks of the time. From the ore dressing to the finished end product – with blast furnaces, steelworks and rolling mill, the plant carries out every stage in the production of steel. In 1913, more than 3000 steelworkers produce 400,000 tonnes of cast iron, 360,000 tonnes of steel and 297,000 of rolled products.</item>
+        <item>On 30 April Jean Monnet, one of the founding fathers of the European Community, performed the symbolic tapping of the first European blast furnace for Montanunion in Belval.</item>
+        <item>The steelworks was completely refurbished and modernised; the work is completed in 1979. The six old blast furnaces are torn down and replaced by three new ones with even higher production capacities.</item>
+        <item>The three blast furnaces are gradually shut down. They are replaced by an electric furnace that is fed with scrap metal rather than iron ore.</item>
+        <item>One of the last three blast furnaces is sold to the Chinese Kisco steel group. Over five months, 240 Chinese labourers dismantle the more than 10,000 tons of steel and number and wrap every single piece; 20 months later, the colossus is reconstructed at its new site in Kunming in the province of Yunnan.</item>
+        <item>The era of iron production in Belval-Ouest draws to a close. The only remaining functional blast furnace is shut down with a symbolic final tapping. Discussions start concerning possible future uses of the approx. 120 hectare site.</item>
+        <item>The state of Luxembourg and the Arbed steel group (now ArecelorMittal) set up the Agora development company together. They are to plan and build a modern, lively city quarter on the decommissioned Belval industrial site.</item>
+        <item>Together with the Ministry of the Interior, Agora calls an urban development competition for the construction of a master plan as the foundation for all further development of the new city quarter. It is won by Jo Coenen &amp; Co. of Maastricht (now represented by the Mars offices) and the landscape designers Lubber of ‘s-Hertogenbosch (now represented by the Elyps offices).</item>
+        <item>Foundation of the Fonds Belval. As a public office, its role is as the “City of science, research and innovation”, in other words, the implementation of the state investment programme in Belval. \n\n In June, over 10,000 people take part in the Steel Works Festival in Belval. The performers include Nina Hagen and the band Indochine.</item>
+        <item>Opening of the Rockhal, Luxemburg’s biggest concert hall. \n\n The relocation of the “Gabriel Lippmann” research centre sees the arrival of the first scientists in Belval.</item>
+        <item>The industrial area had not been open to the public for almost 100 years – and now some 1000 visitors attend the official reopening of Belval. Belval’s new landmark, the red bank building of Dexia (now BIL), opens at the end of 2006. 1400 members of staff of RBC Dexia Investor Service (now RBC Investor Services) move into the first section of the building.</item>
+        <item>The old blasting hall is the venue for the “All we need” exhibition, part of the programme for the European Capital of Culture year of Luxemburg and the greater region.</item>
+        <item>Opening of Belvalplaza I, the multifunction centre with apartments, a shopping mall, cafés, restaurants and a multiplex cinema with 1500 seats. Thousands of visitors take the opportunity to be there on the opening day – despite having to queue for hours.</item>
+        <item>The two districts of Belval Nord and the terrace of the Blast-Furnaces are fully commercialized. The university library, the so-called the Luxembourg Learning Center, opens its doors and offers students a state-of-the-art environment in addition to offering so-called traditional library services. The site has a total of 17,000 daily occupants, including more than 3,000 inhabitants, 5,700 pupils, students, assistants, researchers and more than 8,500 employees.</item>
+    </string-array>
+</resources>
